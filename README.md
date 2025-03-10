@@ -1,14 +1,33 @@
-## hihi there ^_^
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/1b/42/eb/1b42eb9645b8ee3bed4c45b56b78ea14.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/91/f3/18/91f3181214318acbbc7bf0559bdb9fab.jpg">
+ <img alt="depending on your desktop color preference, you will see my emotional state during the day or night. geeked vs locked in." src="https://i.pinimg.com/736x/1b/42/eb/1b42eb9645b8ee3bed4c45b56b78ea14.jpg">
+</picture>
 
-<!--
-**greenishyellow/greenishyellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## about me! ^_^
 
 - i am a huge fps and action game fan! 🤓
 - currently learning C# and how to use github..
-- i aspire to work under riot, especially in character and concept art
-- you can reach me from my discord, @.kaliflower
 - favorite animals are pandas, cats, frogs, and bunnies
 
--->
+<details>
+<summary>aspirations and previous works</summary>
+
+- i aspire to work under riot, especially in character and concept art.
+- some of my works can be found on my instagram and tiktok: @vitamin_kforpotassium
+- currently a graphic designer for ucf esports
+
+</details>
+
+<details>
+<summary>contact information</summary>
+
+| applications | @ |
+|--------:|---------------------|
+|  discord|      .kaliflower    |
+|instagram|vitamin_kforpotassium|
+|tiktok   |vitamin_kforpotassium|
+  
+</details>
+
+

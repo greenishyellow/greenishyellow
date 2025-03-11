@@ -9,6 +9,7 @@
 - i am a huge fps and action game fan! 🤓
 - currently learning C# and how to use github..
 - favorite animals are pandas, cats, frogs, and bunnies
+- :smirk_cat: try changing your desktop bg color to see an alternate picture!
 
 <details>
 <summary>aspirations and previous works</summary>

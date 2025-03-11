@@ -14,8 +14,7 @@
 <summary>aspirations and previous works</summary>
 
 - i aspire to work under riot, especially in character and concept art.
-- some of my works can be found on my instagram and tiktok: @vitamin_kforpotassium
-- currently a graphic designer for ucf esports
+- currently a graphic designer for ucf esports: spring 2025 student series
 
 </details>
 

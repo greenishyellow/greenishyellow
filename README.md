@@ -7,27 +7,16 @@
 ## about me! ^_^
 
 - i am a huge fps and action game fan! 🤓
-- currently learning C# and how to use github..
 - favorite animals are pandas, cats, frogs, and bunnies
 - :smirk_cat: try changing your desktop bg color to see an alternate picture!
 
 <details>
 <summary>aspirations and previous works</summary>
 
-- i aspire to work under riot, especially in character and concept art.
-- currently a graphic designer for ucf esports: spring 2025 student series
-
-</details>
-
-<details>
-<summary>contact information</summary>
-
-| applications | @ |
-|--------:|---------------------|
-|  discord|      .kaliflower    |
-|instagram|vitamin_kforpotassium|
-|tiktok   |vitamin_kforpotassium|
+- character & environment 2D/3D artist
+- marketing coordinator for esports things
   
 </details>
+
 
 
